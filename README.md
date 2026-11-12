@@ -1,4 +1,4 @@
-# Windows VPN Credential Updater: change the saved username & password on many VPN profiles at once
+# Windows VPN Credential Updater: change the saved username & password on many Ikev2 VPN profiles at once
 
 > A tiny Windows 11 / Windows 10 tool that updates the **saved username and password of all your built-in IKEv2 VPN profiles in one click**. No more opening Settings > Network & internet > VPN and editing profiles one by one every time your VPN provider rotates credentials.
 
