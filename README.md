@@ -2,7 +2,7 @@
 
 > A tiny Windows 11 / Windows 10 tool that updates the **saved username and password of all your built-in IKEv2 VPN profiles in one click**. No more opening Settings and editing profiles one by one every time your VPN provider rotates credentials.
 
-Made by **Micro**. Join my Telegram channel for more tools: **[@MicroLab_SecZero](https://t.me/MicroLab_SecZero)**
+Join my Telegram channel for more tools: **[@MicroLab_SecZero](https://t.me/MicroLab_SecZero)**
 
 ---
 
